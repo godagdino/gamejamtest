@@ -9,3 +9,8 @@ block_position = 0;
 /// @DnDHash : 513C8089
 /// @DnDArgument : "friction" "2"
 friction = 2;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 6748F617
+variable = 0;

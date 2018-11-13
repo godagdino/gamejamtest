@@ -1,9 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 3364D8FF
-/// @DnDArgument : "expr" "random_range(300,1524)"
+/// @DnDArgument : "expr" "random_range(299,1524)"
 /// @DnDArgument : "var" "player_obj.block_position"
-player_obj.block_position = random_range(300,1524);
+player_obj.block_position = random_range(299,1524);
 
 /// @DnDAction : YoYo Games.Instances.Create_Instance
 /// @DnDVersion : 1
